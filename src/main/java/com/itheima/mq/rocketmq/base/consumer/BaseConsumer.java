@@ -27,6 +27,6 @@ public class BaseConsumer {
         });
         //5.启动消费者
         consumer.start();
-        //
+        //你好贱人
     }
 }
